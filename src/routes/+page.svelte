@@ -3,3 +3,6 @@
 <a href="/experiment-1">
   <button>Go to Experiment 1</button>
 </a>
+<a href="/experiment-2">
+  <button>Go to Experiment 2</button>
+</a>
